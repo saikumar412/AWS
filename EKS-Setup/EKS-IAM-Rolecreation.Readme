@@ -1,0 +1,13 @@
+Open the AWS CloudFormation console at https://console.aws.amazon.com/cloudformation.
+
+Choose Create stack.
+
+For Specify template, select Upload a template file, and then choose Choose file.
+
+Choose the file you created earlier, and then choose Next.
+
+For Stack name, enter a name for your role, such as eksClusterRole, and then choose Next.
+
+On the Configure stack options page, choose Next.
+
+On the Review page, review your information, acknowledge that the stack might create IAM resources, and then choose Create stack.
